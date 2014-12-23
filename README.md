@@ -14,3 +14,6 @@ Mentor:Benjamin Dillenburger Michael Hansmeyer
 Thanks  
 This project is based on my Master of Advanced Studiesfinal work at the ETH Zurich CAAD in 2009/2010.   
 This thesis would not exist without the support of:Ludger Hoverstadt who made this project possible.Benjamin Dillenburger, Michael Hansmeye who are my mentorsfrom the Chair.Xiaofan Deng, who offer the site material and context.Thanks also to our MAS colleagues for their support andfriendship.
+
+requirment
+==============
