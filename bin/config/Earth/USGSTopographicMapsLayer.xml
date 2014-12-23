@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--$Id: USGSTopographicMapsLayer.xml 12605 2009-09-19 04:28:01Z tgaskins $-->
+<Layer version="1" layerType="TiledImageLayer">
+    <DisplayName>USGS Topographic Maps</DisplayName>
+    <Service serviceName="WWTileService">
+        <URL>http://worldwind25.arc.nasa.gov/tile/tile.aspx</URL>
+    </Service>
+    <!-- Sat, 19 Sep 2009 4:10:00 GMT -->
+    <LastUpdate>1253333400000</LastUpdate>
+    <DatasetName>102dds</DatasetName>
+    <DataCacheName>Earth/USGS Topographic Maps</DataCacheName>
+    <AvailableImageFormats>
+        <ImageFormat>image/jpg</ImageFormat>
+    </AvailableImageFormats>
+    <FormatSuffix>.dds</FormatSuffix>
+    <NumLevels count="12" numEmpty="5"/>
+    <TileOrigin>
+        <LatLon units="degrees" latitude="-90" longitude="-180"/>
+    </TileOrigin>
+    <LevelZeroTileDelta>
+        <LatLon units="degrees" latitude="25.6" longitude="25.6"/>
+    </LevelZeroTileDelta>
+    <TileSize>
+        <Dimension width="512" height="512"/>
+    </TileSize>
+    <Sector>
+        <SouthWest>
+            <LatLon units="degrees" latitude="17.84" longitude="-168.67"/>
+        </SouthWest>
+        <NorthEast>
+            <LatLon units="degrees" latitude="71.55" longitude="-65.15"/>
+        </NorthEast>
+    </Sector>
+    <ActiveAltitudes max="7e6"/>
+</Layer>

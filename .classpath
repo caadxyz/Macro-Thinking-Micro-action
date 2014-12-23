@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="experimental"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="build/lib/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="jogl.jar"/>
+	<classpathentry kind="lib" path="worldwind.jar"/>
+	<classpathentry kind="lib" path="src/mhd_world/core.jar"/>
+	<classpathentry kind="lib" path="postgis-1.5.0.jar"/>
+	<classpathentry kind="lib" path="postgresql-8.4-701.jdbc3.jar"/>
+	<classpathentry kind="lib" path="lib/core.jar"/>
+	<classpathentry kind="lib" path="lib/PeasyCam.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
