@@ -1,6 +1,7 @@
 Macro-Thinking-Micro-action
 ===========================
 
+abstract:  
 This project aims to provide alternative and innovative plan models for booming cities that are currently under rapid development. Using digital technology, we strive to integrate the diverse local structure in socialand spatial aspects with the ambition and demands of city’s expansion. Firstly, though parameterization, the local infrastructure, industry chain and living patterns were diagrammatized, quantized and input as reference database. Secondly, digital sequence simulation is used as an innovative tool to promote interventions among above elements and generate emergent process of living activities which interact to each other base on cellular automata theory. Finally, building behaviors of this area were predicted and outputted possible master plan indesirable future. This study arrives at an open scenario the feasible prospect. A conclusion is drawn to reflect the process, achievement and weakness of the research.
 
 ![Macro-Thinking-Micro-action](http://www.ikuku.cn/wp-content/uploads/user/u1497/POST/p231310/1428665217240832-818x858.jpg) 
