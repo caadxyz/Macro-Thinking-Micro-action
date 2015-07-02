@@ -21,15 +21,15 @@ This thesis would not exist without the support of:Ludger Hoverstadt who made th
 -------
 
 
-The final thesis of Haidong Ma "Macro Thinking and Micro Action" aims to provide alternative urban strategies for currently developing Chinese cities. He proposes the use of digital technologies to assess diverse local structures and to combine them with the social and spatial requirements of rapid city expansion.
+The final thesis of Haidong Ma "Macro Thinking and Micro Action" aims to provide alternative urban strategies for currently developing Chinese cities. He proposes the use of digital technologies to assess diverse local structures and to combine them with the social and spatial requirements of rapid city expansion.  
 
-Mr. Ma developed a custom tool to evaluate, store, and represent a series of infrastructures, and living patterns. in a second step a digital sequence simulation, based on cellular automata processes, was generated to analyse interventions among the reference elements and to produce sequences of living activities. Finally a prediction for building behavior and a possible master plan were exported by the software.
+Mr. Ma developed a custom tool to evaluate, store, and represent a series of infrastructures, and living patterns. in a second step a digital sequence simulation, based on cellular automata processes, was generated to analyse interventions among the reference elements and to produce sequences of living activities. Finally a prediction for building behavior and a possible master plan were exported by the software.  
 
-Haidong Ma presented his tool as part of the eCAADe 2010 conference and was awarded one of the ten best papers. His thesis demonstrated both a very creative approach as well as a particularly high technical competency.
+Haidong Ma presented his tool as part of the eCAADe 2010 conference and was awarded one of the ten best papers. His thesis demonstrated both a very creative approach as well as a particularly high technical competency.  
 
-Zurich, September 13th, 2011
-Prof. Dr. Ludger Hovestadt
-Director of Studies in MAS ETH ARCH/CAAD
+Zurich, September 13th, 2011  
+Prof. Dr. Ludger Hovestadt  
+Director of Studies in MAS ETH ARCH/CAAD  
 
 
 requirement
